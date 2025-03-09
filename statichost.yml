@@ -1,0 +1,5 @@
+domains:
+  # Primary domain
+  - was-there.com
+  # Domains that redirect to the primary
+  - www.was-there.com
