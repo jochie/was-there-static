@@ -1,0 +1,44 @@
+BODY {
+     font-family:	arial, helvetica, sans-serif;
+     color:		       blue;
+}
+
+H1 {
+   font-variant:	small-caps;
+}
+
+IMG.splash {
+	   border: thin solid #888;
+	   padding: 5px;
+	   margin: 5px;
+}
+
+H1.header {
+	  text-align: center;
+}
+
+.main {
+      font-size: larger;
+}
+
+.copyright {
+	   font-size:	smaller;
+	   font-style:	italic;
+	   text-align:     center;
+}
+
+A:link, A:visited, A:active {
+	text-decoration:    none;
+}
+
+A:link, A:hover {
+	color:	red;
+}
+
+A:visited {
+	  color:	orange;
+}
+
+A:active {
+	 color:	lime;
+}
